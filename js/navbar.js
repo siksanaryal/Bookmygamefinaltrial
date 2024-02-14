@@ -1,11 +1,11 @@
 //Navbar
 
 document.querySelector('nav').innerHTML = `
-<a href="/index.html" class="nav-logo"><span>Book</span>mygame</a>
+<a href="../index.html" class="nav-logo"><span>Book</span>mygame</a>
         <input type="text" placeholder="search here" class="nav-search">
         <ul class="nav-menu">
           <li class="nav-item">
-            <a href="/index.html" class="nav-link">HOME</a>
+            <a href="../index.html" class="nav-link">HOME</a>
           </li>
           <li class="nav-item">
             <a href="mybooking.html" class="nav-link">BOOKINGS</a>
